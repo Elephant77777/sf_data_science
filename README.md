@@ -3,4 +3,8 @@ From the[Skillfactory Data Science course] (https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://skillfactory.ru)
+* [Проект 0. Игра: Угадай число](https://github.com/Elephant77777/sf_data_science/blob/main/project%200/game.py)
+
+* [Проект 1. Игра: Угадай число. Компьютер сам загадывает и сам угадывает число](https://github.com/Elephant77777/sf_data_science/blob/main/project%200/game_v2.py)
+
+## Ссылки на резюме
